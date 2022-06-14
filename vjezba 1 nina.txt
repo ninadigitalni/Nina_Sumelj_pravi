@@ -1,0 +1,11 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>vjezba 1</title>
+</head>
+
+<body>
+<p>Neki drugi dokument!</p>
+</body>
+</html>
+
